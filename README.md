@@ -3,7 +3,7 @@
 # 🛡️ Information Security Course Material (ITM24)
 
 > A well-organized collection of my **Information Security** course material studied during my **BS Information Technology (ITM24)** degree in **2026**.
-
+> 
 ---
 
 # 📖 About
