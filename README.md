@@ -269,6 +269,8 @@ Your support encourages me to continue organizing and sharing educational resour
 
 🔗 GitHub: https://github.com/Talha-Yaseen-Hub
 
+📖 Linkedin: https://www.linkedin.com/in/talha-yaseen-44a41a341?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 ---
 
 <div align="center">
